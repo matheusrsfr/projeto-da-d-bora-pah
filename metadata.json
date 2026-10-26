@@ -1,0 +1,6 @@
+{
+  "name": "JIT RUSH — Corrida Just-in-Time",
+  "description": "Jogo educativo e dinâmico de gestão logística e armazenagem industrial Just-in-Time em fábrica automotiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
